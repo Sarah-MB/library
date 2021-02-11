@@ -1,0 +1,23 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "A Book library application, built with Node Js, Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarah-MB/library.git"
+  },
+  "author": "Saratu Muazu Bello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarah-MB/library/issues"
+  },
+  "homepage": "https://github.com/Sarah-MB/library#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1"
+  }
+}
